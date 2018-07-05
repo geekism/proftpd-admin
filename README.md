@@ -28,7 +28,7 @@ There is no build-in security, so you have to protect the directory with somethi
 
 It's possible to use either of SHA1 and pbkdf2 with either of MySQL/MariaDB and sqlite3. pbkdf2 is supported since ProFTPd 1.3.5.
 
-You can look at some [screenshots](screenshots/README.md) to see if this is the tool you need.
+You can look at [screenshots](/screenshot-ftpadmin.justla.me.png) to see if this is the tool you need.
 
 ## To-Do
 
